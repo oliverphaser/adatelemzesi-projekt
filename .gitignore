@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / env
+.env
+.venv
+
+# macOS
+.DS_Store
+
+# Data
+data/raw/
+data/processed/
+outputs/models/
+outputs/figures/
+outputs/tables/
+
+# VS Code
+.vscode/

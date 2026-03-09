@@ -1,0 +1,22 @@
+name: adatelemzes
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - jupyter
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - openpyxl
+  - pip:
+      - tensorflow>=2.16,<2.19
+      - pillow>=10,<12
+      - opencv-python>=4.10,<5
+      - ipywidgets>=8,<9
+      - kaggle>=1.7
+      - kagglehub>=0.3
