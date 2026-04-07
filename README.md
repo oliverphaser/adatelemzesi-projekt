@@ -6,6 +6,12 @@ A projekt célja egy olyan gépi tanulási modell létrehozása, amely képes k�
 
 A projekt a CRISP-DM adatelemzési módszertant követi, amely strukturált megközelítést biztosít az adatok elemzéséhez és a modellek fejlesztéséhez.
 
+A projektet készítette:
+- Nagy Sebestyén János (AOK1O5) / Adatok betöltése és előkészítése
+- Tüskés Ferenc (Q30DMZ) / Adatfeltáró elemzés (EDA)
+- Győri Marcell Tamás (E723IS) / Modell tanítása és összehasonlítása
+- Mohácsi Olivér Ádám (IRSQO2) / Végső bemutató és összegzés - ezt en csinaltam
+
 ---
 
 ## Adatforrás
