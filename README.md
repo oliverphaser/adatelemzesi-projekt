@@ -10,7 +10,7 @@ A projektet készítette:
 - Nagy Sebestyén János (AOK1O5) / Adatok betöltése és előkészítése
 - Tüskés Ferenc (Q30DMZ) / Adatfeltáró elemzés (EDA)
 - Győri Marcell Tamás (E723IS) / Modell tanítása és összehasonlítása
-- Mohácsi Olivér Ádám (IRSQO2) / Végső bemutató és összegzés - ezt en csinaltam
+- Mohácsi Olivér Ádám (IRSQO2) / Végső bemutató és összegzés
 
 ---
 
